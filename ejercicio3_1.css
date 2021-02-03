@@ -1,0 +1,15 @@
+body{
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+    line-height: 1.5;
+    background-color: darkgreen;
+}
+@media all and (max-width:600px){
+    h2{
+        background-color: darkkhaki;
+    }
+    ul {
+        background-color: darkturquoise;
+    }
+}

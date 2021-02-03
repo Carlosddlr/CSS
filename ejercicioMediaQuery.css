@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(211, 211, 212) ;
+}
+
+
+.enlace div {
+    background-color: rgb(52, 240, 6);
+    
+}   
+  
+
+.tortilla {
+    background-color: rgb(223, 238, 15);
+}
+ 
+
+ .marx {
+     background: rgb(125, 125, 128);
+ }
+
+ @media all and (min-width: 768px){
+     .contenedor {
+         display: flex;
+
+     }
+ }

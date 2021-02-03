@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.primer {
+    border: 20px;
+    font-style: italic;
+}
+
+
+#protocolo {
+    background-color: blue;
+    border-style: double;
+    color: cornsilk;
+    width: 1000px;
+    height: 500px;
+}
+

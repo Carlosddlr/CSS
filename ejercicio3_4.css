@@ -1,0 +1,18 @@
+
+
+.enlace div {
+    background-color: orange;
+    margin: 10px;
+    padding: 20px;
+    width: 100px;
+}   
+    
+ 
+
+a:visited{
+    color: orangered;
+}
+
+a:hover{
+    color: springgreen;
+}
